@@ -2,10 +2,10 @@
 <extension client="site" type="language" method="upgrade">
 	<name>Malay (MY)</name>
 	<tag>ms-MY</tag>
-	<version>5.4.0.1</version>
+	<version>5.4.3.1</version>
 	<creationDate>2026-02-28</creationDate>
 	<author>Ahmad Zaki Abdullah</author>
-	<authorEmail>a.zakiabdullah@gmail.com</authorEmail>
+	<authorEmail>zaki@joomla.my</authorEmail>
 	<authorUrl>https://joomla.my/</authorUrl>
 	<copyright>(C) 2005 - 2026 Ahmad Zaki Abdullah. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
